@@ -20,4 +20,4 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # Starter Project
 My starter project was a "useless machine" or essentially a machine that reverts a switch to its original position once you've changed it. 
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=GVJ7ubITNtI&ab_channel=BlueStampEng){:target="_blank" rel="noopener"}
+[![First Milestone](https://i3.ytimg.com/vi/GVJ7ubITNtI/maxresdefault.jpg)](https://www.youtube.com/watch?v=GVJ7ubITNtI&ab_channel=BlueStampEng){:target="_blank" rel="noopener"}
