@@ -1,5 +1,5 @@
 # LED Text Display
-My project is a LED light board that displays text based on input from a keyboard immediately after recieving it. This project requires an application of electronics, firmware, mechanics, and coding to complete. Some of the parts included are an LED dot matrix, Arduino, wood, and a PS/2 port/keyboard.
+My project is a LED light board that displays text based on input from a keyboard immediately after recieving it. This project requires an application of electronics, firmware, mechanics, and coding to complete. Some of the parts included are an LED dot matrix, Arduino, wood, and
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
