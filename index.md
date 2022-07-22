@@ -13,7 +13,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://i3.ytimg.com/vi/v1SFLFnWgHc/maxresdefault.jpg)](https://www.youtube.com/watch?v=v1SFLFnWgHc&t=2s&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # First Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+My first milestone was the assembly of my three LED screens, with the added scrolling text. I connected the three LED matrices together with wires, as well as connecting that series of boards to an Arduino Uno and a battery pack. Originally it was very dificult to have even one board's LEDs light up, but after attaching the battery packs, which provided more voltage than just attaching the Arduino to my computer. I was able to connect the battery pack to the arduino through a breadboard and wires.
 
 [![First Milestone](https://i3.ytimg.com/vi/o7z0u-YCULg/maxresdefault.jpg)](https://www.youtube.com/watch?v=o7z0u-YCULg&feature=emb_logo "First Milestone"){:target="_blank" rel="noopener"}
 
