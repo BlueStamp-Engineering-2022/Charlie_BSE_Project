@@ -1,5 +1,5 @@
 # LED Text Display
-My project is a LED light board that displays text based on input from a keyboard immediately after recieving it. This project requires an application of electronics, firmware, mechanics, and coding to complete. Some of the parts included are an LED dot matrix, Arduino, wood, and
+My project is a LED light board that displays text based on input from a keyboard immediately after recieving it. This project requires an application of electronics, firmware, mechanics, and coding to complete. Some of the parts included are an LED dot matrix, Arduino, wood, and batteries.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -8,7 +8,7 @@ My project is a LED light board that displays text based on input from a keyboar
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLVs9trnXZUrd4V11R0wOuXXsekP2_Gx0DtO6qCIVjfh6Jm-6HCGO92EJys8hOO0I5ZDOunO8ZjfBinO9AG3NcOX4Rn8i59hbT2xma8Zomp6D1xR0Z3P_WRE4PKBfOWR-_4H1VBKVParytHjWgQfq-k=s1036-no?authuser=0)
 
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My final milestone is the inclusion of a wooden casing for my board. Because I wasn't able to fit the wires into the wood, I also had to solder the boards togetehr, which was a very tedious process. I had to cut, sand, and stain the wood myself to make an adequate casing, and overall, this was my faorite part of the project.
 
 [![Final Milestone](https://i3.ytimg.com/vi/v1SFLFnWgHc/maxresdefault.jpg)](https://www.youtube.com/watch?v=v1SFLFnWgHc&t=2s&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
