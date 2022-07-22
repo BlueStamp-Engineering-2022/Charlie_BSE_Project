@@ -3,7 +3,7 @@ My project is a LED light board that displays text based on input from a keyboar
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Charlie Folk | Harker | Mechanical Engineering | Incoming Sophomore
+| Charlie | Harker | Mechanical Engineering | Incoming Sophomore
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLVs9trnXZUrd4V11R0wOuXXsekP2_Gx0DtO6qCIVjfh6Jm-6HCGO92EJys8hOO0I5ZDOunO8ZjfBinO9AG3NcOX4Rn8i59hbT2xma8Zomp6D1xR0Z3P_WRE4PKBfOWR-_4H1VBKVParytHjWgQfq-k=s1036-no?authuser=0)
 
